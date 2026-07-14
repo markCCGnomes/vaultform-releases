@@ -1,0 +1,95 @@
+VAULT ECOSYSTEM LICENSE
+Version 1.0, July 2026
+Copyright (c) 2026 CCGnomes. All rights reserved.
+
+This license governs the Vault ecosystem software published by CCGnomes,
+including VaultForm and its companion applications (each, the "Software"),
+as distributed through CCGnomes' official channels.
+
+1. DEFINITIONS
+
+   "Official Channel" means a download location operated by CCGnomes,
+   including the CCGnomes GitHub release repositories and any location
+   CCGnomes designates at https://ccgnomes.com.
+
+   "You" means the individual or single legal entity exercising this
+   license.
+
+   "Self-Hosting" means installing and operating the Software on
+   infrastructure You own or lease, for the benefit of You, Your household,
+   or Your organization — including processing data that Your own
+   customers, members, or users submit to You (for example, form
+   submissions collected by Your website).
+
+2. LICENSE GRANT
+
+   Subject to the terms below, CCGnomes grants You a worldwide,
+   royalty-free, non-exclusive, non-transferable license to download the
+   Software from an Official Channel and to use and Self-Host it, for
+   personal and commercial purposes alike, at no charge.
+
+3. RESTRICTIONS
+
+   Except as expressly permitted above or by applicable law that cannot be
+   contractually waived, You may NOT:
+
+   a. copy, redistribute, republish, mirror, sell, rent, sublicense, or
+      otherwise make the Software available to any third party — the
+      Official Channels are the only authorized source;
+   b. modify the Software or create derivative works of it;
+   c. reverse engineer, decompile, or disassemble the Software;
+   d. operate the Software as a hosted or managed service for third
+      parties — that is, offer others the ability to use the Software on
+      infrastructure You operate (Self-Hosting for Your own organization,
+      including data Your customers submit to You, remains permitted);
+   e. remove or alter any copyright, license, or attribution notices; or
+   f. use the names "CCGnomes", "Vault", "VaultForm", or related marks to
+      imply endorsement, or to distribute anything under confusingly
+      similar names.
+
+4. UPDATES AND VERSIONS
+
+   Each release of the Software is licensed under the license text
+   distributed with that release. CCGnomes may publish future versions of
+   the Software under different terms.
+
+5. DONATIONS
+
+   The Software is free to use. Development is funded by its community:
+   if it is useful to You — especially in a commercial setting — a
+   donation toward continued development is warmly encouraged (never
+   required) at https://ccgnomes.com/donate.
+
+6. OWNERSHIP
+
+   The Software is licensed, not sold. CCGnomes and its licensors retain
+   all right, title, and interest in the Software. Data You process with
+   the Software is Yours; this license claims no rights over it.
+
+7. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+   NON-INFRINGEMENT. YOU ARE RESPONSIBLE FOR YOUR OWN DATA, INCLUDING
+   BACKUPS AND LEGAL COMPLIANCE.
+
+8. LIMITATION OF LIABILITY
+
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL CCGNOMES BE
+   LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY — WHETHER IN
+   CONTRACT, TORT, OR OTHERWISE — ARISING FROM OR IN CONNECTION WITH THE
+   SOFTWARE OR ITS USE, INCLUDING LOSS OF DATA, PROFITS, OR BUSINESS.
+
+9. TERMINATION
+
+   This license terminates automatically if You breach it. Upon
+   termination You must stop using the Software and destroy Your copies.
+   Sections 6 through 10 survive termination.
+
+10. GENERAL
+
+   If any provision of this license is held unenforceable, the remainder
+   stays in effect. Failure to enforce a provision is not a waiver. This
+   is the entire agreement between You and CCGnomes concerning the
+   Software.
