@@ -1,5 +1,5 @@
 VAULT ECOSYSTEM LICENSE
-Version 1.0, July 2026
+Version 1.1, July 2026
 Copyright (c) 2026 CCGnomes. All rights reserved.
 
 This license governs the Vault ecosystem software published by CCGnomes,
@@ -60,13 +60,25 @@ as distributed through CCGnomes' official channels.
    donation toward continued development is warmly encouraged (never
    required) at https://ccgnomes.com/donate.
 
-6. OWNERSHIP
+6. PAID EDITIONS, FEATURES, AND SERVICES
+
+   This license covers only the Software artifacts that CCGnomes
+   distributes free of charge under this license text. CCGnomes may — now
+   or in the future — offer editions, features, add-ons, plugins, hosting,
+   support, or other products and services on separate paid or commercial
+   terms. Nothing in this license grants You any right to those paid
+   offerings, and nothing in this license obligates CCGnomes to include,
+   keep, or add any particular feature in the free Software. Artifacts You
+   have already downloaded remain governed by the license text they were
+   distributed with.
+
+7. OWNERSHIP
 
    The Software is licensed, not sold. CCGnomes and its licensors retain
    all right, title, and interest in the Software. Data You process with
    the Software is Yours; this license claims no rights over it.
 
-7. NO WARRANTY
+8. NO WARRANTY
 
    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
@@ -74,20 +86,20 @@ as distributed through CCGnomes' official channels.
    NON-INFRINGEMENT. YOU ARE RESPONSIBLE FOR YOUR OWN DATA, INCLUDING
    BACKUPS AND LEGAL COMPLIANCE.
 
-8. LIMITATION OF LIABILITY
+9. LIMITATION OF LIABILITY
 
    TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL CCGNOMES BE
    LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY — WHETHER IN
    CONTRACT, TORT, OR OTHERWISE — ARISING FROM OR IN CONNECTION WITH THE
    SOFTWARE OR ITS USE, INCLUDING LOSS OF DATA, PROFITS, OR BUSINESS.
 
-9. TERMINATION
+10. TERMINATION
 
    This license terminates automatically if You breach it. Upon
    termination You must stop using the Software and destroy Your copies.
-   Sections 6 through 10 survive termination.
+   Sections 7 through 11 survive termination.
 
-10. GENERAL
+11. GENERAL
 
    If any provision of this license is held unenforceable, the remainder
    stays in effect. Failure to enforce a provision is not a waiver. This
