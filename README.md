@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="brand/vaultform.svg" width="120" alt="VaultForm">
+</p>
+
 # VaultForm — official releases
 
 **VaultForm** is a privacy-first form submission data store: a
@@ -53,3 +57,14 @@ donations toward continued development are warmly encouraged at
 Please report vulnerabilities privately via this repository's
 "Report a vulnerability" button (GitHub private vulnerability reporting) rather
 than a public issue.
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/vaultsuite-lockup-reversed.png">
+    <img src="brand/vaultsuite-lockup.png" height="56" alt="VaultSuite — every tool, one vault">
+  </picture>
+  <br>
+  <sub>VaultForm is part of the <b>VaultSuite</b> family of self-hosted, privacy-first tools by CCGnomes.</sub>
+</p>
