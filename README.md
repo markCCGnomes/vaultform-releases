@@ -61,10 +61,7 @@ than a public issue.
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="brand/vaultsuite-lockup-reversed.png">
-    <img src="brand/vaultsuite-lockup.png" height="56" alt="VaultSuite — every tool, one vault">
-  </picture>
+  <img src="brand/vaultsuite-icon.png" width="72" alt="VaultSuite — every tool, one vault">
   <br>
   <sub>VaultForm is part of the <b>VaultSuite</b> family of self-hosted, privacy-first tools by CCGnomes.</sub>
 </p>
